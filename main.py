@@ -13,7 +13,7 @@ def greet(name, greeting_template = "Hello, <name>!"):
 
 # PLEASE READ
 # the url https://www.smartconversion.com/otherInfo/gravity_of_planets_and_the_sun.aspx is not working, I am guessing I was getting a list of different forces per planet
-# including an extrenal link is very irritating by the way
+# including an external link is very irritating by the way. imagine when it does not work
 
 gravitational_forces = {"earth": 9.8, "venus": 0.9, "mercury":0.3, "moon":0.2}
 
